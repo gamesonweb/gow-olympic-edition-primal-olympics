@@ -32,9 +32,10 @@
     - [Réalisation des Map](#réalisation-des-map)
     - [Animations](#animations)
     - [Sons](#sons)
-12. [Développé avec](#développé-avec)
-13. [Logiciels utilisés](#logiciels-utilisés)
-14. [Vidéos de développement](#vidéos-de-développement)
+12. [Problème de connexion à une partie](#probleme-connexion)
+13. [Développé avec](#développé-avec)
+14. [Logiciels utilisés](#logiciels-utilisés)
+15. [Vidéos de développement](#vidéos-de-développement)
 
 *******
 
@@ -72,10 +73,11 @@ Nous vous invitons à célébrer la 100ème édition des Primal Olympics, une ex
 <div id='description-du-jeu'></div>
 
 ## Description du jeu
-Notre jeu possède 4 épreuves différentes qui sont jouables en multijoueurs. Les joueurs peuvent utiliser leur clavier ou bien une manette.
-Ils peuvent choisir de créer un lobby ou bien d’en rejoindre un. Dans le lobby l'hôte peut décider du nombre d'épreuve à jouer. Il peut également choisir de garder les mini-jeux proposés par défauts ou sélectionner d’autres dans la bibliothèque de jeux.
-Avant chaque début de mini-jeu, une explication des touches est fournie en fonction des contrôles utilisés, ainsi qu’une description de l’épreuve.
-Comme dans des vrais Jeux Olympiques, les joueurs sont récompensés selon leur classement (médaille d’Or, d’Argent, de Bronze), à la fin de tous les mini-jeux, le joueur possédant le plus de médailles sera désigné vainqueur des Primal Olympics.
+Dans notre jeu vous devrez affronter vos adversaires à travers différentes épreuves. A l’issue de chaque épreuve des médailles vous seront attribuées en fonction de votre classement (Médaille d’or, d’argent et de bronze pour les 3 premières positions et aucune médaille pour les joueurs restants). Quand toutes les épreuves auront été jouées, le joueur ayant remporté le plus de médailles sera désigné vainqueur des Primals Olympics. 
+
+Notre jeu est jouable en solo et en multijoueur. Cependant, si vous voulez profiter de la meilleure expérience nous vous conseillons fortement de jouer en multijoueur.
+
+Dans Primal Olympics, vous pouvez jouer au clavier ou à la manette. Si vous n’êtes pas habitué à jouer au clavier nous vous conseillons d’utiliser manette. Avant chaque début de mini jeux, les touches à utiliser vous sont montrées en fonction des contrôles utilisés, ainsi qu’une description de l’épreuve.
 
 <div id='fonctionnalités'></div>
 
@@ -370,6 +372,13 @@ Quant aux textures, nous avons utilisé [Substance 3D Painter](https://www.adobe
 - [T-Rex Roar](https://freesound.org/people/CGEffex/sounds/96223/)
 - [Downhill Madness Music](https://youtu.be/8gGWSVHQ-EE)
 - [Stellar Storm Music](https://www.youtube.com/watch?v=gbBjjC-KMgE)
+
+<div id='probleme-connexion'></div>
+
+## Problème de connexion à une partie
+**Dans le cas où vous n'arrivez pas à rejoindre un ami:**
+
+Cela peut être dû au fait que votre IP n’est pas visible par les autres pair, ou alors que votre pare-feu bloque les ports nécessaire pour les connexions P2P. Pour corriger ce problème, changez de réseau Wi-Fi ou faites un partage de connexion avec votre téléphone. 
 
 <div id='développé-avec'></div>
 
